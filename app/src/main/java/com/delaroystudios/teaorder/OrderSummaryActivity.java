@@ -10,9 +10,6 @@ import android.widget.TextView;
 
 import java.text.NumberFormat;
 
-/**
- * Created by delaroy on 6/14/17.
- */
 public class OrderSummaryActivity extends AppCompatActivity {
 
     @Override
