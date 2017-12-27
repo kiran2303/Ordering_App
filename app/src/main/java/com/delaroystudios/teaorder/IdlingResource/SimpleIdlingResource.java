@@ -5,9 +5,7 @@ import android.support.test.espresso.IdlingResource;
 
 import java.util.concurrent.atomic.AtomicBoolean;
 
-/**
- * Created by delaroy on 6/14/17.
- */
+
 public class SimpleIdlingResource implements IdlingResource {
 
     @Nullable
