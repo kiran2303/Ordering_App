@@ -10,9 +10,7 @@ import com.delaroystudios.teaorder.model.Tea;
 
 import java.util.ArrayList;
 
-/**
- * Created by delaroy on 6/14/17.
- */
+
 public class ImageDownloader {
 
     private static final int DELAY_MILLIS = 3000;
