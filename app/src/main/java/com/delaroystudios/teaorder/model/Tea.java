@@ -1,8 +1,6 @@
 package com.delaroystudios.teaorder.model;
 
-/**
- * Created by delaroy on 6/14/17.
- */
+
 public class Tea {
 
     private String mTeaName;
